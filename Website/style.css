@@ -1,0 +1,34 @@
+	@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,700,500);
+
+	body {
+		font-family: "Roboto", Helvetica Neue, Sans-Serif;
+	}
+
+	h1 {
+		color: red;
+		background-color: #CCC;
+		font-weight: 200;
+	}
+
+	div {
+		width: 100%;
+		height: 80vh;
+		text-align: center;
+		background-color: #FAFAFA;
+		display: inline-block;
+	}
+
+	.logo {
+		background-color: transparent;
+		font-size: 60pt;
+		margin-top: 20vh;
+		color: #444;
+	}
+
+	.maroon {
+		color: #990033;
+	}
+
+	.gold {
+		color: #FFB310;
+	}
